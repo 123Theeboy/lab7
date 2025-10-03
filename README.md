@@ -1,6 +1,7 @@
 Ensemble Learning Lab: Combining Models for Improved Performance
 
-Overview
+Overview:
+
 This lab is based on Chapter 7 of Python Machine Learning (Second Edition) by Sebastian Raschka and Vahid Mirjalili. The chapter covers ensemble learning methods that combine multiple models to achieve better predictive performance than individual models.
 
 In this hands-on lab, you will:
@@ -13,7 +14,8 @@ Evaluate and tune ensemble classifiers
 The lab uses the Wine dataset and Iris dataset for classification tasks.
 
 
-Objectives
+Objectives:
+
 Understand the concept of ensemble learning and why it often outperforms individual models
 Implement and evaluate majority voting classifiers
 Apply bagging with bootstrap sampling
